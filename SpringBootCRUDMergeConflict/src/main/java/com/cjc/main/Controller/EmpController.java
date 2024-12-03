@@ -7,5 +7,8 @@ public class EmpController {
 	public void m1() {
 		System.out.println("m1-added by sachin");
 	}
+	public void m3() {
+		System.out.println("m1-added by sachin- second time");
+	}
 
 }
